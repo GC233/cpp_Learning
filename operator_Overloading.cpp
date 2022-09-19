@@ -44,7 +44,7 @@ int main()
     s.operator++();
     s.print_Cur();
     s[2] = "avc";
-    std::cout << s[2] << std::endl;
+    //std::cout << s[2] << std::endl;
     
 
 }

@@ -1,0 +1,3 @@
+﻿  operator_Overloading.cpp
+E:\vs\operator_Overloading\operator_Overloading.cpp(21): warning C4715: “StrBlobPtr::operator[]”: 不是所有的控件路径都返回值
+  operator_Overloading.vcxproj -> E:\vs\operator_Overloading\x64\Debug\operator_Overloading.exe

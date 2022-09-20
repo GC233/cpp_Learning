@@ -1,3 +1,5 @@
-﻿  operator_Overloading.cpp
-E:\vs\operator_Overloading\operator_Overloading.cpp(21): warning C4715: “StrBlobPtr::operator[]”: 不是所有的控件路径都返回值
-  operator_Overloading.vcxproj -> E:\vs\operator_Overloading\x64\Debug\operator_Overloading.exe
+﻿D:\visualstdio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(operator_Overloading.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  const_cast.cpp
+  virtual_abstractClass.cpp
+  正在生成代码...
+  operator_Overloading.vcxproj -> E:\vs\cpp_Learning\x64\Debug\cpp_Learning.exe

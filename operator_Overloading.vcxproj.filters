@@ -18,5 +18,11 @@
     <ClCompile Include="operator_Overloading.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="const_cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual_abstractClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

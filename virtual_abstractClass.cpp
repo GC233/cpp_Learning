@@ -16,7 +16,7 @@ protected:
     int b;
 };
 
-
+/*
 class Pub_Derv :public Base
 {
 public:
@@ -24,7 +24,7 @@ public:
 private:
     int c;
 };
-
+*/
 class Pub_Derv :private Base //私有继承，成员无法访问父类protected和public成员
 {
 public:
@@ -47,10 +47,10 @@ public:
                           //同理，protected继承会使得间接父类public对象变为protected对象
     }
 };
-int main()
-{
-    //Base* p = new Base();
-    std::cout << "Hello World!\n";
-}
+//int main()
+//{
+//    //Base* p = new Base();
+//    std::cout << "Hello World!\n";
+//}
 
 
